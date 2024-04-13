@@ -55,6 +55,9 @@ The project successfully resulted in the following:
 - **Validated Requirements**: Ensures that the system development aligns with user expectations and business needs.
 - **Stakeholder Approval**: Achieved through continuous engagement and validation sessions.
 
+## Domain Model
+![Domain Model](https://github.com/reuben21/cloud-based-automotive-repair-system-requriements-analysis/blob/main/DomainModel.png?raw=true)
+
 ## Conclusion
 
 This project exemplified a structured approach to software requirements engineering, adhering to best practices and methodologies to ensure clarity, consistency, and alignment with business goals. The documented outcomes not only provide a blueprint for development but also ensure that all stakeholder requirements are meticulously addressed and validated.
